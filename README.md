@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+[![Linkedin Badge](https://img.shields.io/badge/-J%C3%BAlio%20Nery-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/julio-nery/)](https://www.linkedin.com/in/julio-nery/)
+
+
 <!--
 **julionery/julionery** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
