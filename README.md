@@ -1,7 +1,13 @@
-### Hi there 👋
+# :man_technologist: Júlio Nery
 
 [![Linkedin Badge](https://img.shields.io/badge/-J%C3%BAlio%20Nery-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/julio-nery/)](https://www.linkedin.com/in/julio-nery/)
 
+### Hi there 👋
+
+I’m Software engineer specialized in software development for internet and mobile devices.
+
+- 🔭 I’m currently working on Lego Sitemas.
+- 🌱 I’m currently learning Node, React and React Native.
 
 <!--
 **julionery/julionery** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
