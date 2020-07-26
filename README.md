@@ -8,9 +8,10 @@
 
 ### Hi there 👋
 
-I’m software engineer specialized in software development for internet and mobile devices.
+- :man_technologist: I’m software engineer specialized in software development for internet and mobile devices.
 
 - 🔭 I’m currently working on Lego Sitemas.
+
 - 🌱 I’m currently learning Node, React and React Native.
 
 <!--
