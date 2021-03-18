@@ -10,9 +10,9 @@
 
 - :man_technologist: I’m software engineer specialized in software development for internet and mobile devices.
 
-- 🔭 I’m currently working on Lego Sitemas.
+- 🔭 I’m currently working on [Snowman Labs](https://www.snowmanlabs.com.br/).
 
-- 🌱 I’m currently learning Node, React and React Native.
+- 🌱 I’m currently learning [Flutter](https://flutter.dev/).
 
 <!--
 **julionery/julionery** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
